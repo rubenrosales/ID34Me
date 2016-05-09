@@ -1,0 +1,4 @@
+overcast,hot,high,FALSE,FALSE,TRUE,TRUE,TRUE,high
+overcast,hot,normal,FALSE,FALSE,TRUE,TRUE,TRUE,normal
+rainy,cool,normal,TRUE,FALSE,TRUE,FALSE,TRUE,normal
+rainy,mild,normal,FALSE,FALSE,FALSE,FALSE,FALSE,low

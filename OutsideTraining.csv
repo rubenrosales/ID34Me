@@ -1,0 +1,16 @@
+outlook,temperature,humidity,windy,all nighter,lot of homework,lazy,medical issues,grade,outside
+overcast,hot,high,FALSE,FALSE,TRUE,TRUE,TRUE,high,no
+overcast,cool,normal,TRUE,TRUE,TRUE,FALSE,TRUE,normal,no
+overcast,mild,high,TRUE,TRUE,FALSE,FALSE,FALSE,high,yes
+overcast,hot,normal,FALSE,FALSE,TRUE,TRUE,TRUE,normal,no
+rainy,mild,high,FALSE,FALSE,FALSE,FALSE,FALSE,high,yes
+rainy,cool,normal,FALSE,FALSE,FALSE,FALSE,FALSE,normal,yes
+rainy,cool,normal,TRUE,FALSE,TRUE,FALSE,TRUE,normal,no
+rainy,mild,normal,FALSE,FALSE,FALSE,FALSE,FALSE,low,yes
+rainy,mild,high,TRUE,TRUE,TRUE,TRUE,TRUE,high,no
+sunny,hot,high,FALSE,FALSE,FALSE,FALSE,FALSE,low,yes
+sunny,hot,high,TRUE,TRUE,TRUE,TRUE,TRUE,low,no
+sunny,mild,high,FALSE,FALSE,TRUE,FALSE,TRUE,high,no
+sunny,cool,normal,FALSE,FALSE,TRUE,FALSE,TRUE,low,yes
+sunny,mild,normal,TRUE,TRUE,TRUE,TRUE,TRUE,normal,no
+overcast,hot,normal,FALSE,TRUE,TRUE,TRUE,TRUE,normal,no
